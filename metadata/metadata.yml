@@ -1,0 +1,7 @@
+metadata_version: 1
+name: Federated Offline Policy Optimization with Dual Regularization
+description: An offline federated reinforcement learning algorithm published in INFOCOM2024
+authors:
+- name: Xingyuan Hua
+  affiliations:
+  - name: Beijing Institute of Technology
